@@ -7,10 +7,10 @@ This is an approach of the power of machine learning combined with business data
 
 Here are a couple of questions to contrast Boston and Seattle Airbnb business
 
--How does a neighborhood help to determine the price formation?
--Which are the relationship between neighborhood and review score?
--Which are the most important features that influence prices?
--Which categories of amenities are more connected with price and review score?
+How does a neighborhood help to determine the price formation?
+Which are the relationship between neighborhood and review score?
+Which are the most important features that influence prices?
+Which categories of amenities are more connected with price and review score?
 
 3. File Descriptions
 source/The power of machine learning to business-Applying ML to Airbnb by William F.ipynb - Notebook with detailed analysis
