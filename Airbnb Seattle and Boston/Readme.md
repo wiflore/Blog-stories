@@ -1,4 +1,4 @@
-1. Installations . 
+### 1. Installations . 
 xgboost library is required 
 
 2. Project Motivation . 
