@@ -249,7 +249,7 @@ def violinplot_multi(df, x, y, hue):
     opacity = 0.8
     # Draw a nested violinplot and split the violins for easier comparison
     sb.violinplot(x=x, y=y, hue=hue,
-                   split=True, inner="quart",alpha=opacity,
+                   split=True, inner=None,alpha=opacity,
                    palette={"Boston": palette[0], "Seattle": palette[1]},
                    data=df, cut = 0)
     sb.despine(left=True)
@@ -279,7 +279,7 @@ def violin_neighbourhood(df, x, y, city, figsize=(8, 10)):
     sb.violinplot(
         x=x,
         y=y,
-        inner="quart",
+        inner=None,
         alpha=opacity,
         data=df[df['city'] == city],
         cut=0,
