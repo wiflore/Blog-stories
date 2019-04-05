@@ -18,10 +18,10 @@ Which are the relationship between neighborhood and review score?
 For me, it is a surprise that the score is highly influenced by the neighborhood. I mean what happened about the kindness of the host. Apparently, the happiness of the customer is more related to the place that he/her stay. It sounds logic.
 
 ## 3. File Descriptions
-source/The power of machine learning to business-Applying ML to Airbnb by William F.ipynb - Notebook with detailed analysis
-source/helper.py helful functions
-data/ - contains data used
-images/ - contains images used
+source/The power of machine learning to business-Applying ML to Airbnb by William F.ipynb - Notebook with detailed analysis . 
+source/helper.py helful functions . 
+data/ - contains data used . 
+images/ - contains images used . 
 
 ## 4. How to Interact with your project
 Clone and Run it. The data is readed by a website like
